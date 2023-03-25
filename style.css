@@ -1,0 +1,38 @@
+h3{
+    color: blueviolet;
+    text-align: center;
+    background-color: brown;
+}
+div a{
+    color: aqua;
+}
+li{
+    display:inline;
+    color: aqua;
+    border: 1px solid black;
+    margin: 20px;
+}
+.abcd{
+    margin: 30px auto;
+    text-align: center;
+    
+}
+.bro{
+    width: auto;
+    text-align: center;
+}
+.abcd label{
+    display: block;
+}
+.jana{
+    display: block;
+    text-align: center;
+}
+.input .input{
+    width: 300;
+}
+.hello{
+    margin:0px;
+    border-radius: 10;
+    font-size: 1.5em;
+}
